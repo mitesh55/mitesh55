@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mitesh-padiya-605ab61b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mitesh-padiya-605ab61b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mitesh-padiya-605ab61b9/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/mitesh-padiya-605ab61b9/" height="30" width="40" /></a>
 
 
 <!--
