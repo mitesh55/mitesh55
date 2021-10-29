@@ -1,4 +1,27 @@
-### Hi there 👋 it's Mitesh Padiya
+<h1 align="center">Hi 👋, I'm Mitesh Padiya</h1>
+<h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning | Data Science</h3>
+### About 
+
+- - 💻 I've Completed few projects on [Deep Learning & Computer Vision]()
+
+- 💻 I’m currently learning **Computer vision**
+
+- 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
+
+- 📫 How to reach me **miteshpadiya55@gmail.com**
+
+- 📄 You can find [My Resume]()
+
+- 💡 Math enthusiast 
+
+- 💡 Research Interests : Deep Learning , Reinforcement Learning, Quantum Computing and Human-Robot Collaboration
+
+##
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mitesh-padiya-605ab61b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mitesh-padiya-605ab61b9/" height="30" width="40" /></a>
+
 
 <!--
 **mitesh55/mitesh55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
