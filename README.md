@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mitesh Padiya</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning | Data Science</h3>
 
-- - 💻 I've Completed few projects on [Deep Learning & Computer Vision]()
+- 💻 I've Completed few projects on [Deep Learning & Computer Vision]()
 
-- -💻 I’m currently learning **Computer vision**
+-💻 I’m currently learning **Computer vision**
 
-- -🤝 I’m looking for opportunities in **Deep learning and Computer vision**
+-🤝 I’m looking for opportunities in **Deep learning and Computer vision**
 
-- -📫 How to reach me **miteshpadiya55@gmail.com**
+-📫 How to reach me **miteshpadiya55@gmail.com**
 
-- -📄 You can find [My Resume]()
+-📄 You can find [My Resume]()
 
-- -💡 Math enthusiast 
+-💡 Math enthusiast 
 
-- -💡 Research Interests : Deep Learning , Reinforcement Learning, Quantum Computing and Human-Robot Collaboration
+-💡 Research Interests : Deep Learning , Reinforcement Learning, Quantum Computing and Human-Robot Collaboration
 
 
 <h3 align="left">Connect with me:</h3>
