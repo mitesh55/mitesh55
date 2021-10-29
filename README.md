@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitesh Padiya</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning | Data Science</h3>
-### About 
 
 - - 💻 I've Completed few projects on [Deep Learning & Computer Vision]()
 
@@ -16,7 +15,6 @@
 
 - 💡 Research Interests : Deep Learning , Reinforcement Learning, Quantum Computing and Human-Robot Collaboration
 
-##
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
