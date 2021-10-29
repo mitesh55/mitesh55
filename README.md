@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **miteshpadiya55@gmail.com**
 
-- 📄 You can find [My Resume](https://drive.google.com/file/d/1pG34jSEyVbMWBqu1cui8NrtlYl3eekDo/view?usp=sharing)
+- 📄 You can find [My Resume](https://drive.google.com/file/d/1cLOtyTJynxxw_qVVI6KLXeTNioH-WZ__/view?usp=sharing)
 
 - 💡 Math enthusiast 
 
