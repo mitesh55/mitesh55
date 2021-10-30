@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Padiya</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning | Data Science</h3>
 
--  💻 I've Completed few real time projects in [Deep Learning & Computer Vision](https://github.com/mitesh55/Deep_Learning_projects). 
+-  💻 I've Completed few real time projects in [Deep Learning & Computer Vision](https://github.com/mitesh55/Deep_Learning_projects)(must)
 
 - 💻 I’m currently learning **Computer vision**
 
