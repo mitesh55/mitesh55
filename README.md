@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Padiya</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning | Data Science</h3>
 
--  💻 I've Completed few real time projects in [Deep Learning & Computer Vision](https://github.com/mitesh55/Deep_Learning_projects). 
+-  💻 I've Completed few real time projects in [Deep Learning & Computer Vision](https://github.com/mitesh55/Deep_Learning_projects)  <<-- click to refer.
 
 - 💻 I’m currently learning **Computer vision**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **miteshpadiya55@gmail.com**
 
-- 📄 You can find [My Resume](https://drive.google.com/file/d/1cLOtyTJynxxw_qVVI6KLXeTNioH-WZ__/view?usp=sharing)  <<-- click to refer.
+- 📄 You can find [My Resume](https://drive.google.com/file/d/1cLOtyTJynxxw_qVVI6KLXeTNioH-WZ__/view?usp=sharing).
 
 - 💡 Math enthusiast 
 
